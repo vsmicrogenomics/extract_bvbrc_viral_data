@@ -69,7 +69,9 @@ nohup python extract_bvbrc_viral_data.py --genome_list genome_list.txt --output_
 - `--faa`: Extract protein files (`.faa`).
 - `--ffn`: Extract nucleotide feature files (`.ffn`).
 - `--features`: Extract tabular feature files (`.features.tab`).
-
+-  For help, ```bash
+   python extract_bvbrc_data.py --help
+        ```
 ---
 
 ## Example Input File (genome_list.txt)
